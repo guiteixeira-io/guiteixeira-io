@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/guiteixeira-io/guiteixeira-io/blob/main/profile-picture.jpg?raw=true](https://static.wikia.nocookie.net/watchdogscombined/images/4/4b/Wrench_Legions.jpg/revision/latest?cb=20220809095916)" width="200px" alt="Profile Picture"/>
+  <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7m7WjqPuogiY8g3o7kypIF/6487b3e35f7ad57a99f3c013b0f2d445/wrench_thumb_310362.jpg" width="200px" alt="Profile Picture"/>
   <h1>Hi there, I'm Guilherme Santos 👋</h1>
   <p>
     [cite_start]<strong>Full Stack Developer</strong> [cite: 12] | [cite_start]<strong>Software Engineering MBA Candidate</strong> [cite: 58]
