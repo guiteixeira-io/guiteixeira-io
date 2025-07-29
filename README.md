@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/guiteixeira-io/guiteixeira-io/blob/main/profile-picture.jpg?raw=true" width="200px" alt="Profile Picture"/>
+  <img src="[https://github.com/guiteixeira-io/guiteixeira-io/blob/main/profile-picture.jpg?raw=true](https://static.wikia.nocookie.net/watchdogscombined/images/4/4b/Wrench_Legions.jpg/revision/latest?cb=20220809095916)" width="200px" alt="Profile Picture"/>
   <h1>Hi there, I'm Guilherme Santos 👋</h1>
   <p>
     [cite_start]<strong>Full Stack Developer</strong> [cite: 12] | [cite_start]<strong>Software Engineering MBA Candidate</strong> [cite: 58]
@@ -49,37 +49,5 @@
   [cite_start]<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/> [cite: 50]
   [cite_start]<img alt="RESTful APIs" src="https://img.shields.io/badge/REST-0277BD?style=for-the-badge&logo=swagger&logoColor=white"/> [cite: 48]
 </p>
-
----
-
-### 💼 Professional Experience
-
-**Full Stack Developer** | [cite_start]Nila Apuntes, Argentina (_Oct 2023 - Feb 2025_) [cite: 14, 15]
-- [cite_start]Led the complete digital transformation of the company. [cite: 16]
-- [cite_start]Developed a full E-learning platform using **React.js, Node.js, and MongoDB**. [cite: 17, 18]
-- [cite_start]Supervised the transition and update of internal processes. [cite: 19]
-
-**Full Stack Developer** | [cite_start]TSA do Brasil, Brazil (_Apr 2021 - Oct 2023_) [cite: 21, 22, 23]
-- [cite_start]Implemented a company-wide ERP system built with **Angular.js, Node.js, and SQL**. [cite: 24]
-- [cite_start]Optimized crucial business processes and managed the system in a cloud environment. [cite: 25, 27]
-- [cite_start]Enabled the extraction of previously inaccessible data for business intelligence. [cite: 26]
-
-**Full Stack Developer** | [cite_start]Alfa Gelo, Brazil (_Feb 2018 - Apr 2021_) [cite: 28, 29]
-- [cite_start]Implemented a production and logistics control system using **React.js, Laravel, and SQL**. [cite: 30]
-- [cite_start]Significantly improved data integrity and financial accuracy for the company. [cite: 31]
-
-**Full Stack Developer** | [cite_start]Tiny Tots, Brazil (_Jan 2017 - Feb 2018_) [cite: 32, 33]
-- [cite_start]Created a responsive institutional website and developed a basic management system. [cite: 34, 35]
-- [cite_start]Developed an EAD platform with **React.js, Laravel, and SQL**. [cite: 35]
-
----
-
-### 🎓 Education
-
-- [cite_start]**MBA, Software Engineering** - FUNTEF PR, Brazil (_Mar 2025 - Mar 2026_) [cite: 57, 58]
-- [cite_start]**MBA, DevOps** - UTN FRBA, Argentina (_Oct 2023 - Dec 2023_) [cite: 59, 60]
-- [cite_start]**Master, Product Management** - Descomplica Faculdade Digital, Brazil (_Oct 2022 - Aug 2023_) [cite: 61, 62]
-- [cite_start]**MBA, Information Security** - Universidade Cruzeiro do Sul, Brazil (_Jan 2021 - Dec 2021_) [cite: 63, 64]
-- [cite_start]**B.S., Analysis and Systems Development** - CEUNSP, Brazil (_Jan 2017 - Dec 2019_) [cite: 65, 66]
 
 ---
