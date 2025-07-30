@@ -10,17 +10,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I am a Full Stack Developer with strong communication skills with stakeholders, always aiming to deliver the best possible final product, whether for internal or external use. [cite: 2] [cite_start]I am trilingual, fluent in Portuguese, English, and Spanish. 
-
-- 🔭 I’m currently pursuing an **MBA in Software Engineering** at FUNTEF PR. 
-- 💬 Ask me about **React, Node.js, SQL, and System Architecture**.
-- 📫 How to reach me: **guilherme.txr.santos@outlook.com** 
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/guilhermeteixeira-santos). 
-
----
-
 ### 🛠️ My Tech Stack
 
 **Languages:**
