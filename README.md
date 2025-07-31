@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7m7WjqPuogiY8g3o7kypIF/6487b3e35f7ad57a99f3c013b0f2d445/wrench_thumb_310362.jpg" width="200px" alt="Profile Picture"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY0aXd2cmlhOHJ1ajlxOXdiZDI0ZWd3aXBldncyZWlhdTlkeXd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xR1a4l6CzCYYec/giphy.gif" width="200px" alt="Profile Picture"/>
   <h1>Hi there, I'm Gui 👋</h1>
   <p>
     <strong>Full Stack Developer</strong> | <strong>Software Engineering MBA Candidate</strong> 
