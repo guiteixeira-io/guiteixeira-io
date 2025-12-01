@@ -1,6 +1,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiteixeira-io&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY0aXd2cmlhOHJ1ajlxOXdiZDI0ZWd3aXBldncyZWlhdTlkeXd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xR1a4l6CzCYYec/giphy.gif" width="200px" alt="Profile Picture"/>
+  <img height="180em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY0aXd2cmlhOHJ1ajlxOXdiZDI0ZWd3aXBldncyZWlhdTlkeXd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xR1a4l6CzCYYec/giphy.gif" width="200px" alt="Profile Picture"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiteixeira-io&layout=compact&langs_count=7&theme=dracula"/>
   <h1>Hi there, I'm Gui 👋</h1>
   <p>
