@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiteixeira-io&layout=compact&langs_count=7&theme=dracula"/>
   <h1>Hi there, I'm Gui 👋</h1>
   <p>
-    <strong>Full Stack Developer</strong> | <strong>Software Engineering MBA Candidate</strong> 
+    <strong>Full Stack Developer</strong> | <strong>Software Engineering MBA </strong> 
   </p> 
   
 </div>
