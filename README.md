@@ -57,8 +57,8 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiteixeira-io&show_icons=true&title_color=ff00cc&icon_color=00ffff&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiteixeira-io&layout=compact&langs_count=7&title_color=ff00cc&icon_color=00ffff&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=guiteixeira-io&show_icons=true&title_color=ff00cc&icon_color=00ffff&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=guiteixeira-io&layout=compact&langs_count=7&title_color=ff00cc&icon_color=00ffff&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
 </div>
 
 <br/>
